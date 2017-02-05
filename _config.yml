@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Z17PUB
   avatar: logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "抠鼻屎的小清新"
+  #bio: ""
   email:
   disqus-shortname:
   twitter: yonking_
@@ -63,7 +63,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: 抠鼻屎的小清新
+  weibo: yonking1
   flickr: #username
   500px: #username
   codepen: #username
