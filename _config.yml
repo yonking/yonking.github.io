@@ -39,8 +39,8 @@ owner:
   bio: "A simple and awesome blog theme powered by jekyll."
   email:
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: yonking_
+  facebook: yonking.zhang
   google:
     plus: #username
     analytics:
@@ -48,13 +48,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: yonking
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: yonking_
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -63,7 +63,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: #username
+  weibo: 抠鼻屎的小清新
   flickr: #username
   500px: #username
   codepen: #username
