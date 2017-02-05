@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title:Z17PUB
 email:
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
@@ -40,15 +40,15 @@ owner:
   email:
   disqus-shortname:
   twitter: yonking_
-  facebook: yonking.zhang
+  facebook: #yonking.zhang
   google:
-    plus: #username
+    plus: 117870948160485413341
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: yonking
+  github: #yonking
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
