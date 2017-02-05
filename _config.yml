@@ -3,8 +3,8 @@
 # Site wide configuration
 ####################################
 #
-title:Z17PUB
-email:
+title: Z17PUB
+email: yonkingzhang@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
 
@@ -42,7 +42,7 @@ owner:
   twitter: yonking_
   facebook: #yonking.zhang
   google:
-    plus: 117870948160485413341
+    plus: #117870948160485413341
     analytics:
     verify:
     ad-client:
